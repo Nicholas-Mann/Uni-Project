@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\data\\programing\\projects\\minecraft cctweaked controller\\main program\\dependencies\\dependencies\\include\\glm\\glm.cppm",
+        "ProvidedModule": "glm",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

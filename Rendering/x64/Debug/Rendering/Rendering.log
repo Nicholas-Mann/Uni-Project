@@ -1,0 +1,269 @@
+﻿  RenderingHelp.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Light.cpp
+  LightingManager.cpp
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Lighting\LightingManager.cpp(42,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Path.hpp
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(212,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(212,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(212,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(213,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(213,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(213,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(215,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(215,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(215,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(216,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(216,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(216,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(218,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(218,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(218,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(219,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(219,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(219,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(221,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(221,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(221,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(222,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(222,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(222,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(224,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(224,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(224,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(225,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(225,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(225,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(227,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(227,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(227,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(228,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(228,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(228,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(281,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(281,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(281,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(282,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(282,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(282,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(284,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(284,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(284,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(285,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(285,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(285,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(287,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(287,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(287,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(288,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(288,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(288,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(290,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(290,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(290,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(291,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(291,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(291,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(293,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(293,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(293,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(294,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(294,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(294,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(296,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(296,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(296,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(297,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(297,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(297,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Objects/ComplexShape/Path.hpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,201): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,146): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,98): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,51): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,219): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,158): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,104): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,51): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Mesh.cpp
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(24,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Objects/Mesh.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(27,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Objects/Mesh.cpp')
+  
+  Object.cpp
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(24,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Objects/Object.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(27,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Objects/Object.cpp')
+  
+  Material.cpp
+  Program.cpp
+  ImguiCore.cpp
+  GLM_GTX_hash requires C++11 standard library support
+  ScreenRenderWidgit.cpp
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(24,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/UI/InguiWidgits/ScreenRenderWidgit.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(27,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/UI/InguiWidgits/ScreenRenderWidgit.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\UI\InguiWidgits\ScreenRenderWidgit.cpp(100,36): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\UI\InguiWidgits\ScreenRenderWidgit.cpp(100,22): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\UI\InguiWidgits\ScreenRenderWidgit.cpp(101,33): warning C4244: 'argument': conversion from 'const float' to 'GLsizei', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Rendering\src\UI\InguiWidgits\ScreenRenderWidgit.cpp(101,19): warning C4244: 'argument': conversion from 'const float' to 'GLsizei', possible loss of data
+  TextHandler.cpp
+D:\Data\Uni Programming\IndividualProject\Rendering\src\UI\TextHandler.cpp(152,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Rendering.vcxproj -> D:\Data\Uni Programming\IndividualProject\x64\Debug\Rendering.lib

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Data\Uni Programming\IndividualProject\x64\Debug\Dependencies</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Data\Uni Programming\IndividualProject\x64\Debug\Support</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Data\Uni Programming\IndividualProject\x64\Debug\Core.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

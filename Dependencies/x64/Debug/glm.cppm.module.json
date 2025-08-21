@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\glm.cppm.obj",
+            "outputs": [
+                "D:\\Data\\Programing\\Projects\\Minecraft CCTweaked Controller\\Main Program\\Dependencies\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Data\\Programing\\Projects\\Minecraft CCTweaked Controller\\Main Program\\Dependencies\\x64\\Debug\\glm.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glm",
+                    "source-path": "d:\\data\\programing\\projects\\minecraft cctweaked controller\\main program\\dependencies\\dependencies\\include\\glm\\glm.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

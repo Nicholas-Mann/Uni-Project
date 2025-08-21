@@ -1,0 +1,295 @@
+﻿  Chunk.cpp
+  HydraulicErosion.cpp
+  GLM_GTX_hash requires C++11 standard library support
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.hpp(26,46): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(212,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(212,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(212,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(213,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(213,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(213,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(215,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(215,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(215,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(216,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(216,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(216,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(218,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(218,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(218,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(219,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(219,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(219,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(221,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(221,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(221,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(222,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(222,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(222,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(224,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(224,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(224,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(225,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(225,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(225,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(227,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(227,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(227,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(228,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(228,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(228,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(281,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(281,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(281,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(282,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(282,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(282,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(284,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(284,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(284,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(285,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(285,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(285,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(287,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(287,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(287,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(288,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(288,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(288,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(290,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(290,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(290,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(291,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(291,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(291,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(293,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(293,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(293,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(294,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(294,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(294,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(296,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(296,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(296,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(297,6): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(297,23): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\SimpleShapes\Line.hpp(297,40): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,201): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,146): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,98): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(37,51): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,219): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,158): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,104): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Rendering\src\Objects\ComplexShape\Path.hpp(71,51): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\Perlin.hpp(27,46): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Models/HydraulicErosion.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(20,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(63,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(65,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(78,44): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(78,44): warning C4244:         with
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(78,44): warning C4244:         [
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(78,44): warning C4244:             T=float
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(78,44): warning C4244:         ]
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(166,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(278,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(368,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(541,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.cpp(561,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Perlin.cpp
+  GLM_GTX_hash requires C++11 standard library support
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\Perlin.hpp(27,46): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Models/Perlin.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\Perlin.cpp(40,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\Perlin.cpp(42,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\Perlin.cpp(148,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\Perlin.cpp(177,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Terrain.cpp
+  GLM_GTX_hash requires C++11 standard library support
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\Perlin.hpp(27,46): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Terrain.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Terrain\src\Models\HydraulicErosion.hpp(26,46): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Terrain.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(24,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Terrain.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(27,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Terrain.cpp')
+  
+  TerrainManager.cpp
+  GLM_GTX_hash requires C++11 standard library support
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(24,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/TerrainManager.cpp')
+  
+D:\Data\Uni Programming\IndividualProject\Core\src\Core\Camera.hpp(27,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/TerrainManager.cpp')
+  
+  Generating Code...
+  Terrain.vcxproj -> D:\Data\Uni Programming\IndividualProject\x64\Debug\Terrain.lib

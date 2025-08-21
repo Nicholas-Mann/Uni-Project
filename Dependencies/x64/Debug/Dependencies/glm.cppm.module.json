@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Dependencies\\glm.cppm.obj",
+            "outputs": [
+                "D:\\Data\\Uni Programming\\IndividualProject\\Dependencies\\x64\\Debug\\Dependencies\\vc143.pdb",
+                "x64\\Debug\\Dependencies\\",
+                "D:\\Data\\Uni Programming\\IndividualProject\\Dependencies\\x64\\Debug\\Dependencies\\glm.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glm",
+                    "source-path": "d:\\data\\uni programming\\individualproject\\dependencies\\dependencies\\include\\glm\\glm.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

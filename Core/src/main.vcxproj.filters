@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\imgui\imgui_impl_glfw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\imgui\imgui_impl_opengl3.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\imgui\imgui_tables.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\camera.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Light.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\main.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Material.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\Object.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Core\program.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\cone.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\cylinder.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\loadobj.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Particle.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\ParticleSystem.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\prism.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\simple_mesh.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\sphere.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Button.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\InputHandler.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\TextHandler.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\vmlib\mat44.cpp">
+      <Filter>Support</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\imgui\imgui_impl_glfw.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\imgui\imgui_impl_opengl3.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\imgui\imgui_impl_opengl3_loader.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\imgui\imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\imgui\imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\imgui\imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\camera.hpp">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\defaults.hpp">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Light.hpp">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Material.hpp">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Object.hpp">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\program.hpp">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\cone.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\cylinder.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\loadobj.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Particle.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\ParticleSystem.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\prism.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\simple_mesh.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\sphere.hpp">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Button.hpp">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\InputHandler.hpp">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\TextHandler.hpp">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\vmlib\mat22.hpp">
+      <Filter>Support</Filter>
+    </ClInclude>
+    <ClInclude Include="..\vmlib\mat33.hpp">
+      <Filter>Support</Filter>
+    </ClInclude>
+    <ClInclude Include="..\vmlib\mat44.hpp">
+      <Filter>Support</Filter>
+    </ClInclude>
+    <ClInclude Include="..\vmlib\vec2.hpp">
+      <Filter>Support</Filter>
+    </ClInclude>
+    <ClInclude Include="..\vmlib\vec3.hpp">
+      <Filter>Support</Filter>
+    </ClInclude>
+    <ClInclude Include="..\vmlib\vec4.hpp">
+      <Filter>Support</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Core">
+      <UniqueIdentifier>{29459ce6-255a-47ba-9168-33d1da96421a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{87190849-5869-4438-abbc-31f05846d257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{1f754392-67be-46a9-8c4c-82bd3e65aec9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{cac87aa9-2bbc-4085-8422-28309f0be97b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{c03b2a45-afad-4262-8dc4-1625433d6f59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Support">
+      <UniqueIdentifier>{257b42f0-a509-49d1-9f14-d15e4382607e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\assets\cw2\default.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\default.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\particle.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\particle.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\text.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\text.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\texture.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\texture.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\ui.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\assets\cw2\ui.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

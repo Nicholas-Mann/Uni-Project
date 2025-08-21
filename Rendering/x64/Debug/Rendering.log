@@ -1,0 +1,95 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Mesh.obj : error LNK2001: unresolved external symbol glad_glGetError
+Mesh.obj : error LNK2001: unresolved external symbol glad_glGetIntegerv
+ImguiCore.obj : error LNK2001: unresolved external symbol glad_glGetIntegerv
+Mesh.obj : error LNK2001: unresolved external symbol glad_glDrawElements
+Mesh.obj : error LNK2001: unresolved external symbol glad_glBindBuffer
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glBindBuffer
+Mesh.obj : error LNK2001: unresolved external symbol glad_glDeleteBuffers
+Mesh.obj : error LNK2001: unresolved external symbol glad_glGenBuffers
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glGenBuffers
+Mesh.obj : error LNK2001: unresolved external symbol glad_glBufferData
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glBufferData
+Mesh.obj : error LNK2001: unresolved external symbol glad_glGetBufferSubData
+Mesh.obj : error LNK2001: unresolved external symbol glad_glEnableVertexAttribArray
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glEnableVertexAttribArray
+Mesh.obj : error LNK2001: unresolved external symbol glad_glGetVertexAttribiv
+Mesh.obj : error LNK2001: unresolved external symbol glad_glGetVertexAttribPointerv
+Mesh.obj : error LNK2001: unresolved external symbol glad_glUseProgram
+Program.obj : error LNK2001: unresolved external symbol glad_glUseProgram
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glUseProgram
+Mesh.obj : error LNK2001: unresolved external symbol glad_glVertexAttribPointer
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glVertexAttribPointer
+Mesh.obj : error LNK2001: unresolved external symbol glad_glBindVertexArray
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glBindVertexArray
+Mesh.obj : error LNK2001: unresolved external symbol glad_glDeleteVertexArrays
+Mesh.obj : error LNK2001: unresolved external symbol glad_glGenVertexArrays
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glGenVertexArrays
+Mesh.obj : error LNK2001: unresolved external symbol "public: static class Camera * Camera::activeCamera" (?activeCamera@Camera@@2PEAV1@EA)
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol "public: static class Camera * Camera::activeCamera" (?activeCamera@Camera@@2PEAV1@EA)
+Object.obj : error LNK2019: unresolved external symbol "public: static class Scene * __cdecl Scene::get_current_scene(void)" (?get_current_scene@Scene@@SAPEAV1@XZ) referenced in function "public: virtual void __cdecl Object::ImGuiWindow(void)" (?ImGuiWindow@Object@@UEAAXXZ)
+Object.obj : error LNK2019: unresolved external symbol "public: void __cdecl Scene::remove_object(class Object *)" (?remove_object@Scene@@QEAAXPEAVObject@@@Z) referenced in function "public: virtual void __cdecl Object::ImGuiWindow(void)" (?ImGuiWindow@Object@@UEAAXXZ)
+Program.obj : error LNK2001: unresolved external symbol glad_glAttachShader
+Program.obj : error LNK2001: unresolved external symbol glad_glCompileShader
+Program.obj : error LNK2001: unresolved external symbol glad_glCreateProgram
+Program.obj : error LNK2001: unresolved external symbol glad_glCreateShader
+Program.obj : error LNK2001: unresolved external symbol glad_glDeleteProgram
+Program.obj : error LNK2001: unresolved external symbol glad_glGetActiveUniform
+Program.obj : error LNK2001: unresolved external symbol glad_glGetProgramiv
+Program.obj : error LNK2001: unresolved external symbol glad_glGetProgramInfoLog
+Program.obj : error LNK2001: unresolved external symbol glad_glGetShaderiv
+Program.obj : error LNK2001: unresolved external symbol glad_glGetShaderInfoLog
+Program.obj : error LNK2001: unresolved external symbol glad_glGetUniformLocation
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glGetUniformLocation
+Program.obj : error LNK2001: unresolved external symbol glad_glLinkProgram
+Program.obj : error LNK2001: unresolved external symbol glad_glShaderSource
+Program.obj : error LNK2001: unresolved external symbol glad_glUniform1f
+Program.obj : error LNK2001: unresolved external symbol glad_glUniform1i
+Program.obj : error LNK2001: unresolved external symbol glad_glUniform3fv
+Program.obj : error LNK2001: unresolved external symbol glad_glUniformMatrix3fv
+Program.obj : error LNK2001: unresolved external symbol glad_glUniformMatrix4fv
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glUniformMatrix4fv
+Program.obj : error LNK2001: unresolved external symbol glad_glValidateProgram
+ImguiCore.obj : error LNK2019: unresolved external symbol "public: static void __cdecl Scene::ImGuiWindow(void)" (?ImGuiWindow@Scene@@SAXXZ) referenced in function "public: static void __cdecl ImguiCore::render(void)" (?render@ImguiCore@@SAXXZ)
+ImguiCore.obj : error LNK2019: unresolved external symbol "public: static void __cdecl Terrain::shaderSettings(void)" (?shaderSettings@Terrain@@SAXXZ) referenced in function "public: static void __cdecl ImguiCore::render(void)" (?render@ImguiCore@@SAXXZ)
+ImguiCore.obj : error LNK2019: unresolved external symbol "public: static void __cdecl TerrainManager::ImGuiWindow(void)" (?ImGuiWindow@TerrainManager@@SAXXZ) referenced in function "public: static void __cdecl ImguiCore::render(void)" (?render@ImguiCore@@SAXXZ)
+ImguiCore.obj : error LNK2019: unresolved external symbol "public: static void __cdecl CCTweakerManager::ImGuiWindow(void)" (?ImGuiWindow@CCTweakerManager@@SAXXZ) referenced in function "public: static void __cdecl ImguiCore::render(void)" (?render@ImguiCore@@SAXXZ)
+ImguiCore.obj : error LNK2001: unresolved external symbol glad_glPolygonMode
+ImguiCore.obj : error LNK2001: unresolved external symbol glad_glDisable
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glDisable
+ImguiCore.obj : error LNK2001: unresolved external symbol glad_glEnable
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glEnable
+ImguiCore.obj : error LNK2001: unresolved external symbol glad_glGetString
+ImguiCore.obj : error LNK2001: unresolved external symbol glad_glIsEnabled
+ImguiCore.obj : error LNK2001: unresolved external symbol "public: static bool Scene::showSceneWindow" (?showSceneWindow@Scene@@2_NA)
+ImguiCore.obj : error LNK2001: unresolved external symbol "public: static bool Terrain::showTextureWindow" (?showTextureWindow@Terrain@@2_NA)
+ImguiCore.obj : error LNK2001: unresolved external symbol "public: static bool TerrainManager::showTerrainWindow" (?showTerrainWindow@TerrainManager@@2_NA)
+ImguiCore.obj : error LNK2001: unresolved external symbol "public: static bool CCTweakerManager::showCCTweakerWindow" (?showCCTweakerWindow@CCTweakerManager@@2_NA)
+ScreenRenderWidgit.obj : error LNK2019: unresolved external symbol "public: void __cdecl Scene::render(void)" (?render@Scene@@QEAAXXZ) referenced in function "public: static void __cdecl Scene::render_current_scene(void)" (?render_current_scene@Scene@@SAXXZ)
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glTexParameteri
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glTexImage2D
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glClear
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glClearColor
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glViewport
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glBindTexture
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glBindTexture
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glDeleteTextures
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glDeleteTextures
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glGenTextures
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glBindRenderbuffer
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glDeleteRenderbuffers
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glGenRenderbuffers
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glRenderbufferStorage
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glBindFramebuffer
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glDeleteFramebuffers
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glGenFramebuffers
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glCheckFramebufferStatus
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glFramebufferTexture2D
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol glad_glFramebufferRenderbuffer
+ScreenRenderWidgit.obj : error LNK2001: unresolved external symbol "private: static class Scene * Scene::currentScene" (?currentScene@Scene@@0PEAV1@EA)
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glDepthMask
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glBlendFunc
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glDrawArrays
+TextHandler.obj : error LNK2001: unresolved external symbol glad_glActiveTexture
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Data\Programing\Projects\Minecraft CCTweaked Controller\Main Program\x64\Debug\Rendering.exe : fatal error LNK1120: 76 unresolved externals

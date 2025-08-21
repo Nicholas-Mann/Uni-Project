@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Data\Programing\Projects\Minecraft CCTweaked Controller\Main Program\x64\Debug\Dependencies</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Data\Programing\Projects\Minecraft CCTweaked Controller\Main Program\x64\Debug\Support</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Data\Programing\Projects\Minecraft CCTweaked Controller\Main Program\x64\Debug\Rendering</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Data\Programing\Projects\Minecraft CCTweaked Controller\Main Program\x64\Debug\Terrain</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

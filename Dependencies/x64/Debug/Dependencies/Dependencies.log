@@ -1,0 +1,9 @@
+﻿  Scanning sources for module dependencies...
+  glm.cppm
+  Compiling...
+  glm.cppm
+  glm.cpp
+  glad.c
+  stb_image.c
+  stb_image_write.c
+  Generating Code...
